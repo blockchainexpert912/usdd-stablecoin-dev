@@ -1,0 +1,18 @@
+# Editor temp files
+*~
+.history
+*/*/.history
+# macOS Finder attribute files
+.DS_Store
+
+node_modules
+
+# output of TypeScript transpilation
+/packages/*/dist
+
+# api-extractor temp files
+/packages/*/temp
+
+/temp
+.env
+.eslintcache
